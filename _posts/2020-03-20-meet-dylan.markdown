@@ -7,7 +7,7 @@ img: DylanBlough_headshot_970w.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Data Science, Python, Coding]
 ---
-Thank you for visiting my page! Please feel free to reach out to me directly with any questions you have or to collaborate on a project.
+Thank you for visiting my page! Please feel free to reach out to me directly with any questions you have or to collaborate on a project. My sports writing can be found at: https://medium.com/@beercanalytics
 
 ## Skills
  
