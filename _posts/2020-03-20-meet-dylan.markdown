@@ -3,10 +3,11 @@ layout: post
 title: Meet Dylan
 date: 2020-03-20 13:32:20 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: DylanBlough_headshot_250w.jpg # Add image post (optional)
+img: DylanBlough_headshot_970w.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-tags: [Holidays, Hawaii]
+tags: [Data Science, Python, Coding]
 ---
+Thank you for visiting my page! Please feel free to reach out to me directly with any questions you have or to collaborate on a project.
 
 ## Skills
  
@@ -35,6 +36,7 @@ tags: [Holidays, Hawaii]
 −	Tested several modeling approaches for predicting the outcome of NBA games for Capstone Project
 
 ### Potomac Management Resources, Sr. Account Manager                 August 2016 - November 2019
+
 −	Directed email marketing campaigns (MailChimp, ConstantContact), website content curation, membership renewals, donations, as well as event planning and implementation for a variety of non-profit associations using multiple CMSes (e.g Drupal, MemberClicks, WildApricot)
 
 −	Assisted client association leadership in event implementation, longform board objectives, metrics tracking formulating successful communications, increasing membership and revenue, as well as facilitating board meetings and collaboration. 
@@ -42,7 +44,6 @@ tags: [Holidays, Hawaii]
 −	Oversaw team of 2 coordinators to ensure that client deliverable deadlines were met
 
  
-
 ## Education
 University of Vermont, College of Arts and Science                                                     Class of 2014
 
